@@ -1,0 +1,6 @@
+package oops;
+
+ class PrivateClass {
+	
+
+}
